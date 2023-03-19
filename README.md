@@ -19,3 +19,4 @@ It's also an excellent music platform for all people.
 
 - yarn install
 - yarn start
+- yarn build
