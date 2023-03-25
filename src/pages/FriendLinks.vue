@@ -60,7 +60,7 @@
             <h2>友情链接申请说明</h2>
             <ul>
               <li>欢迎与本站交换友链，以下为要求：</li>
-              <li>添加步骤：<span>申请前请先添加AutoPiano为友链</span></li>
+              <li>添加步骤：<span>申请前请先添加DragonPiano为友链</span></li>
               <li>域名年龄：<span>网站运营时间超过3个月</span></li>
               <li>网站类型：<span>IT类、音乐类等等；内容积极向上，黄赌毒PASS</span></li>
               <li>访问信息：<span>良好的访问速度；日IP、日PV有一定基础</span></li>
