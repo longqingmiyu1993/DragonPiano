@@ -19,3 +19,9 @@ It's also an excellent music platform for all people.
 
 - yarn install
 - yarn start
+
+## Run build
+
+touch run_dev.log
+chmod u+w run_dev.log
+nohup npm run start > run_dev.log 2>run_dev.log & exit
