@@ -61,7 +61,7 @@
   <div id="page-mobile" class="page-mobile">
     <div class="app-bg" :style="appBgStyle"></div>
     <div class="app-content">
-      <h2 class="mobile-tip">请在电脑上用Chrome浏览器访问：www.autopiano.cn</h2>
+      <h2 class="mobile-tip">请在电脑上用Chrome浏览器访问：piano.longqingmiyu.fun</h2>
       <PageHeader></PageHeader>
       <RandomLyric></RandomLyric>
       <Piano></Piano>

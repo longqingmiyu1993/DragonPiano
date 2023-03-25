@@ -1,8 +1,8 @@
 {
-  "name": "autopiano",
+  "name": "DragonPiano",
   "version": "2.0.0",
-  "description": "AutoPiano",
-  "author": "ZhouJihao <249662605@qq.com>",
+  "description": "DragonPiano",
+  "author": "longqingmiyu <1056843342@qq.com>",
   "private": true,
   "scripts": {
     "start": "node build/dev-server.js"

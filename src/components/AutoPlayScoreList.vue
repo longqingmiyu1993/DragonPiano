@@ -128,13 +128,13 @@
     <div class="player-view" v-show="currentView=='PLAYER'">
       <div class="top-bar">
         <!-- <a class="return-btn">&lt;&lt;&nbsp;返回列表</a> -->
-        <h2>AutoPiano正在播放...</h2>
+        <h2>DragonPiano正在播放...</h2>
       </div>
       <div class="cd-box">
         <div class="cd-reader-1"></div>
         <div class="cd-reader-2"></div>
         <div class="cd">
-          <div class="cd-inner">AutoPiano</div>
+          <div class="cd-inner">DragonPiano</div>
         </div>
       </div>
 
