@@ -20,7 +20,7 @@
 
 <template>
   <div class="component-page-header clearfix" ref="PageHeaderComponent">
-    <a class="trade-mark" target="_blank" href="http://www.autopiano.cn" >
+    <a class="trade-mark" target="_blank" href="http://piano.longqingmiyu.fun" >
       <i class="icon-piano"></i>
       <h1 class="trade-mark-txt">龙-钢琴<span class="trade-mark-txt--en">DragonPiano</span></h1>
     </a>

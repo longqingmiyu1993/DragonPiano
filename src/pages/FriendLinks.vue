@@ -52,7 +52,7 @@
             <h2>本站信息</h2>
             <ul>
               <li>名称：<span>龙-钢琴 - DragonPiano</span></li>
-              <li>网址：<span>http://www.autopiano.cn</span></li>
+              <li>网址：<span>http://piano.longqingmiyu.fun</span></li>
               <li>简介：<span>自由钢琴 让你听见内心的声音</span></li>
             </ul>
           </div>

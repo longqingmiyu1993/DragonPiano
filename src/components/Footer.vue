@@ -102,7 +102,7 @@
   <div class="component-page-footer clearfix">
     <ul class="footer-ul left-section">
       <li class="footer-item">
-        <a target="_blank" href="http://www.autopiano.cn"
+        <a target="_blank" href="http://piano.longqingmiyu.fun"
           ><span style="font-weight: bold;">longqingmiyu.fun</span> &copy;
           2023~至今</a
         >
